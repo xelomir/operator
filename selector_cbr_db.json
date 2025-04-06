@@ -1,0 +1,28 @@
+{
+  "[name='q']": {
+    "https://duckduckgo.com/": {
+      "successes": 3,
+      "failures": 0
+    },
+    "https://duckduckgo.com/?t=h_&q=%D0%BE%D0%B2%D1%86%D1%8B&ia=web": {
+      "successes": 1,
+      "failures": 0
+    },
+    "https://duckduckgo.com/?q=%D0%BE%D0%B2%D1%86%D1%8B&t=h_&ia=web": {
+      "successes": 3,
+      "failures": 0
+    }
+  },
+  "//body": {
+    "https://duckduckgo.com/?t=h_&q=%D0%BE%D0%B2%D1%86%D1%8B&ia=web": {
+      "successes": 1,
+      "failures": 0
+    }
+  },
+  "[op_id=\"opid-1\"]": {
+    "https://duckduckgo.com/?q=%D0%BE%D0%B2%D1%86%D1%8B&t=h_&ia=web": {
+      "successes": 2,
+      "failures": 0
+    }
+  }
+}

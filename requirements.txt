@@ -1,0 +1,14 @@
+﻿# --- requirements.txt ---
+
+# Основные зависимости AI Operator
+playwright>=1.30.0   # Используем Playwright для управления браузером (укажи свою версию или >=)
+groq>=0.5.0         # Клиент для Groq API
+python-dotenv>=1.0.0 # Для загрузки переменных окружения (.env)
+
+# Дополнительные полезные библиотеки
+rich>=13.0.0        # Для красивого вывода в консоль (панели, цвета)
+
+# Зависимость Playwright (нужно выполнить playwright install после pip install)
+# Убедись, что нужные браузеры установлены:
+# playwright install chromium
+# playwright install --with-deps chromium # (Для Linux, устанавливает доп. зависимости)

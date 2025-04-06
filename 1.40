@@ -1,0 +1,4 @@
+Requirement already satisfied: playwright in c:\users\идитевпиздусучеткой\desktop\operator_project\venv\lib\site-packages (1.51.0)
+Requirement already satisfied: pyee<13,>=12 in c:\users\идитевпиздусучеткой\desktop\operator_project\venv\lib\site-packages (from playwright) (12.1.1)
+Requirement already satisfied: greenlet<4.0.0,>=3.1.1 in c:\users\идитевпиздусучеткой\desktop\operator_project\venv\lib\site-packages (from playwright) (3.1.1)
+Requirement already satisfied: typing-extensions in c:\users\идитевпиздусучеткой\desktop\operator_project\venv\lib\site-packages (from pyee<13,>=12->playwright) (4.13.0)
